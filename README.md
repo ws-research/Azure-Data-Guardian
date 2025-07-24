@@ -1,4 +1,4 @@
-# ðŸ”’ Azure Data Guardian  
+# Azure Data Guardian  
 **Enterprise Azure Data Management Suite (Phase 1)**  
 
 [![Java 17](https://img.shields.io/badge/Java-17+-orange?logo=openjdk)](https://java.com)
