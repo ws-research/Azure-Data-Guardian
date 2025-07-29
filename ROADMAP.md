@@ -24,5 +24,4 @@
 ### Phase 5: Optimization & Scale (Q1 2026)
 - **Distributed Processing**
 - **Azure Blob Integration**
-- **RBAC Controls**
 - **Scheduled Backups**
