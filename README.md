@@ -25,7 +25,7 @@
 
 ### 🖥️ Standalone Desktop Application
 - Java JAR executable (Java 17+ required)
-- Intuitive desktop UI (JavaFX)
+- Intuitive desktop UI (SwingX)
 - Lightweight deployment (<100MB)
 
 **Phase 1 UI Preview**:  
@@ -57,7 +57,6 @@
 ### Phase 5: Optimization & Scale (Q1 2026)
 - **Distributed Processing**: High-volume handling
 - **Azure Blob Integration**: Cloud storage options
-- **RBAC Controls**: Role-based access management
 - **Scheduled Backups**: Automated export workflows
 
 ```mermaid
