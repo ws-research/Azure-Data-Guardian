@@ -3,7 +3,7 @@
 
 [![Java 17](https://img.shields.io/badge/Java-17+-orange?logo=openjdk)](https://java.com)
 [![Graph API](https://img.shields.io/badge/Microsoft_Graph_API-v1.0-blue?logo=microsoftazure)](https://learn.microsoft.com/graph)
-[![Release Phase](https://img.shields.io/badge/Release-Phase_1-yellow)](https://github.com/yourusername/azure-data-guardian/releases)
+[![Release Phase](https://img.shields.io/badge/Release-Phase_1-yellow)](https://github.com/ws-research/azure-data-guardian/releases)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 [![Roadmap](https://img.shields.io/badge/Roadmap-Public-brightgreen)](ROADMAP.md)
 
@@ -98,9 +98,9 @@ gantt
 - Valid admin credentials (Tenant ID, Client ID, Client Secret)
 
 ### Installation
-1. Download latest JAR from [Releases](https://github.com/yourusername/azure-data-guardian/releases)
+1. Download latest JAR from [Releases](https://github.com/ws-research/azure-data-guardian/releases)
 ```bash
-wget https://github.com/yourusername/azure-data-guardian/releases/download/v1.0/AzureDataGuardian.jar
+wget https://github.com/ws-research/azure-data-guardian/releases/download/v1.0/AzureDataGuardian.jar
 ```
 2. Launch application:
 ```bash
@@ -147,13 +147,6 @@ E --> F[File System]
 F --> G[Export Validation]
 ```
 
-### Resource Requirements
-| Component | Minimum | Recommended |
-|-----------|---------|-------------|
-| RAM       | 2GB     | 4GB         |
-| Storage   | 500MB   | 1GB+        |
-| Network   | 10Mbps  | 100Mbps     |
-
 ### Supported Environments
 - Windows 10/11 (64-bit)
 - macOS 12+ (Intel/Apple Silicon)
@@ -168,7 +161,7 @@ F --> G[Export Validation]
 - Basic content discovery features
 
 **Contribute to our roadmap**:  
-[![Feature Voting](https://img.shields.io/badge/Vote-Next_Features-blue)](https://github.com/yourusername/azure-data-guardian/discussions/1)
+[![Feature Voting](https://img.shields.io/badge/Vote-Next_Features-blue)](https://github.com/ws-research/azure-data-guardian/discussions/1)
 
 ---
 
@@ -178,8 +171,8 @@ We invite administrators to:
 2. Test email export integrity
 3. Suggest UI improvements
 
-[![Report Issues](https://img.shields.io/badge/REPORT_ISSUES-Here-red)](https://github.com/yourusername/azure-data-guardian/issues)
-[![Join Discussion](https://img.shields.io/badge/COMMUNITY-Discussions-green)](https://github.com/yourusername/azure-data-guardian/discussions)
+[![Report Issues](https://img.shields.io/badge/REPORT_ISSUES-Here-red)](https://github.com/ws-research/azure-data-guardian/issues)
+[![Join Discussion](https://img.shields.io/badge/COMMUNITY-Discussions-green)](https://github.com/ws-research/azure-data-guardian/discussions)
 
 ---
 
