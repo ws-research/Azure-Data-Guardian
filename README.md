@@ -91,7 +91,7 @@ gantt
 ## ⚡ Getting Started with Phase 1
 
 ### Prerequisites
-- Java 17+ Runtime ([Download](https://adoptium.net/))
+- Java 17+ Runtime ([Download](https://java.com))
 - Azure AD App Registration with:
   - `Mail.Read` permission
   - Admin consent granted
