@@ -26,7 +26,6 @@
 ### 🖥️ Standalone Desktop Application
 - Java JAR executable (Java 17+ required)
 - Intuitive desktop UI (SwingX)
-- Lightweight deployment (<100MB)
 
 **Phase 1 UI Preview**:  
 ![Phase 1 UI](screenshots/phase1-ui.png)  
@@ -41,7 +40,6 @@
 - **OneDrive Integration**: Business file management and export
 - **SharePoint Access**: Document library retrieval
 - **File Type Filtering**: Selective exports (e.g., ".docx only")
-- **Basic Search**: Content discovery capabilities
 
 ### Phase 3: Advanced Operations (Q4 2025)
 - **Multi-Format Exports**: CSV, JSON, XML metadata reports
@@ -96,15 +94,6 @@ gantt
   - Admin consent granted
 - Valid admin credentials (Tenant ID, Client ID, Client Secret)
 
-### Installation
-1. Download latest JAR from [Releases](https://github.com/ws-research/azure-data-guardian/releases)
-```bash
-wget https://github.com/ws-research/azure-data-guardian/releases/download/v1.0/AzureDataGuardian.jar
-```
-2. Launch application:
-```bash
-java -jar AzureDataGuardian.jar
-```
 
 ### First-Time Workflow
 1. Enter Azure credentials in authentication screen
@@ -127,7 +116,6 @@ java -jar AzureDataGuardian.jar
 
 **Key Benefits**:
 - No PowerShell expertise required
-- Complete audit trail of exported items
 - Native format preservation for compliance
 - Desktop-based secure processing
 
@@ -140,10 +128,8 @@ java -jar AzureDataGuardian.jar
 graph LR
 A[JavaFX UI] --> B[Auth Module]
 B --> C[Graph API Client]
-C --> D[Exchange Service]
-D --> E[EML Converter]
-E --> F[File System]
-F --> G[Export Validation]
+C --> D[File System]
+D --> E[Export Validation]
 ```
 
 ### Supported Environments
@@ -157,7 +143,6 @@ F --> G[Export Validation]
 - OneDrive business data management
 - SharePoint document access
 - File type filtering capabilities
-- Basic content discovery features
 
 **Contribute to our roadmap**:  
 [![Feature Voting](https://img.shields.io/badge/Vote-Next_Features-blue)](https://github.com/ws-research/azure-data-guardian/discussions/1)
@@ -191,7 +176,7 @@ We invite administrators to:
 ---
 
 ## 📜 License  
-MIT License © 2025 [Your Organization]  
+MIT License 
 
 **Security Reports**: [kien61365@gmail.com](mailto:kien61365@gmail.com)  
 
@@ -203,4 +188,3 @@ MIT License © 2025 [Your Organization]
 ---
 
 > "The journey of a thousand backups begins with a single export." - Phase 1 Motto
-```
