@@ -28,7 +28,8 @@
 - Intuitive desktop UI (SwingX)
 
 **Phase 1 UI Preview**:  
-![Phase 1 UI](docs/DesktopUI1)  
+![Phase 1 UI](/docs/DesktopUI1.png)  
+![image Phase 1 UI](/docs/DesktopUI1.png)
 *Current interface showing authentication and email export workflow*
 
 ---
