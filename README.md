@@ -126,7 +126,7 @@ gantt
 ### Architecture
 ```mermaid
 graph LR
-A[JavaFX UI] --> B[Auth Module]
+A[SwingX] --> B[Auth Module]
 B --> C[Graph API Client]
 C --> D[File System]
 D --> E[Export Validation]
