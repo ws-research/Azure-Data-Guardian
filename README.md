@@ -1,7 +1,7 @@
 # Azure Data Guardian  
 **Enterprise Azure Data Management Suite (Phase 1)**  
 
-[![Java 17](https://img.shields.io/badge/Java-17+-orange?logo=openjdk)](https://java.com)
+[![Java 21](https://img.shields.io/badge/Java-21+-orange?logo=openjdk)](https://jdk.java.net/java-se-ri/21)
 [![Graph API](https://img.shields.io/badge/Microsoft_Graph_API-v1.0-blue?logo=microsoftazure)](https://learn.microsoft.com/graph)
 [![Release Phase](https://img.shields.io/badge/Release-Phase_1-yellow)](https://github.com/ws-research/azure-data-guardian/releases)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green)](LICENSE)
@@ -24,7 +24,7 @@
 - Raw EML format export with metadata preservation
 
 ### 🖥️ Standalone Desktop Application
-- Java JAR executable (Java 17+ required)
+- Java JAR executable (Java 21+ required)
 - Intuitive desktop UI (SwingX)
 
 **Phase 1 UI Preview**:  
@@ -90,7 +90,7 @@ gantt
 ## ⚡ Getting Started with Phase 1
 
 ### Prerequisites
-- Java 17+ Runtime ([Download](https://java.com))
+- Java 21+ Runtime ([Download](https://jdk.java.net/java-se-ri/21))
 - Azure AD App Registration with:
   - `Mail.Read` permission
   - Admin consent granted
