@@ -96,6 +96,11 @@ gantt
   - Admin consent granted
 - Valid admin credentials (Tenant ID, Client ID, Client Secret)
 
+### Installation & Double-Click
+Download latest JAR from [Releases](https://github.com/ws-research/azure-data-guardian/releases)
+```bash
+wget https://github.com/ws-research/azure-data-guardian/releases/download/v1.0.0/Azure-Data-Guardian.jar
+```
 
 ### First-Time Workflow
 1. Enter Azure credentials in authentication screen
