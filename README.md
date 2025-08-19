@@ -1,4 +1,6 @@
 # Azure Data Guardian  
+Classify and protect sensitive data across your Azure Blob Storage and databases. Continuously manage your Azure data.
+
 **Enterprise Azure Data Management Suite (Phase 1)**  
 
 [![Java 21](https://img.shields.io/badge/Java-21+-orange?logo=openjdk)](https://jdk.java.net/java-se-ri/21)
@@ -7,7 +9,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 [![Roadmap](https://img.shields.io/badge/Roadmap-Public-brightgreen)](ROADMAP.md)
 
-> **Phase 1**: Secure email management solution for Azure administrators. A comprehensive data management suite evolving through planned releases.
+> **Phase 1**: Advanced secure email management solution for Azure administrators. A comprehensive data management suite evolving through planned releases.
 
 ---
 
