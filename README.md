@@ -1,3 +1,8 @@
+## LEGAL WARNING
+This project is for  **authorized penetration testing and educational purpose only**.
+
+Unlawful use is prohibited. The developer assumes no liability.
+
 # Azure Data Guardian  
 Classify and protect sensitive data across your Azure Blob Storage and databases. Continuously manage your Azure data.
 
@@ -193,7 +198,6 @@ MIT License
 
 **Join Our Evolution**:  
 ⭐ **Star this repo to stay updated on new releases** ⭐  
-
 ---
 
 > "The journey of a thousand backups begins with a single export." - Phase 1 Motto
