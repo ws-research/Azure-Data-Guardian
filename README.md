@@ -110,6 +110,7 @@ Download latest EXE & Java 21 from [Releases](https://github.com/ws-research/azu
 ```bash
 wget https://github.com/ws-research/azure-data-guardian/releases/download/v1.0.0/Azure-Data-Guardian.zip
 ```
+**Crucial Step:** For the executable to run correctly, you **must place it in the same directory as your `JDK` folder**.
 
 ### First-Time Workflow
 1. Enter Azure credentials in authentication screen
