@@ -108,6 +108,14 @@ Download latest JAR from [Releases](https://github.com/ws-research/azure-data-gu
 ```bash
 wget https://github.com/ws-research/azure-data-guardian/releases/download/v1.0.0/Azure-Data-Guardian.jar
 ```
+Download latest EXE from [Releases](https://github.com/ws-research/azure-data-guardian/releases)
+```bash
+wget https://github.com/ws-research/azure-data-guardian/releases/download/v1.0.0/Azure-Data-Guardian.exe
+```
+Download latest EXE & JDK21 from [Releases](https://github.com/ws-research/azure-data-guardian/releases)
+```bash
+wget https://github.com/ws-research/azure-data-guardian/releases/download/v1.0.0/Azure-Data-Guardian.zip
+```
 
 ### First-Time Workflow
 1. Enter Azure credentials in authentication screen
