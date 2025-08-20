@@ -34,13 +34,7 @@ Classify and protect sensitive data across your Azure Blob Storage and databases
 - Java JAR executable (Java 21+ required)
 - Intuitive desktop UI (SwingX)
 
-**Phase 1 UI Preview**:  
-<img src=".//docs/DesktopUI1.PNG" width=600 >
-<img src=".//docs/DesktopUI2.PNG" width=600 >
 
-*Current interface showing authentication and email export workflow*
-
----
 
 
 ## 🔮 Future Release Roadmap
